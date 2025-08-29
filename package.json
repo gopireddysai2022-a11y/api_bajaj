@@ -1,0 +1,17 @@
+{
+  "name": "bfhl-api",
+  "version": "1.0.0",
+  "description": "REST API for VIT Full Stack Question Paper",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py",
+    "dev": "python app.py"
+  },
+  "dependencies": {
+    "flask": "^2.3.3",
+    "flask-cors": "^4.0.0"
+  },
+  "engines": {
+    "python": "3.8+"
+  }
+}
